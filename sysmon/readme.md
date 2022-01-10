@@ -6,4 +6,4 @@
 
 - [Download sysmon zip](#https://download.sysinternals.com/files/Sysmon.zip)
 - Sysmon executables (32 and 64-bit exe)
-- config file (sysmonconfig-export.xml\)
+- config file (sysmonconfig-export.xml)
